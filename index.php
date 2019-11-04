@@ -1,4 +1,6 @@
 <?php
+/* !Function Returns! */
+
 //Create function with return
 function hello(){
     return "Hello, World.";
